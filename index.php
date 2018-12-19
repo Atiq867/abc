@@ -37,7 +37,7 @@ if(isset($_POST['submit'])){
 
 				<!-- Header -->
 					<header id="header" >
-					<img src="images/new.jpg" alt="Avatar" style="width:200px " >
+					<img src="images/new.JPG" alt="Avatar" style="width:200px " >
 						<div class="content" style="background-color:#000000; opacity:0.50">
 							<div class="inner">
 								<h1>Muhammad Atiq</h1>
